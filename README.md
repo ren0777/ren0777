@@ -57,8 +57,8 @@ Always learning ☁️⚙️🔥
 # 🌸 Aesthetic Anime Zone  
 
 <p align="center">
-  <img src="https://media.tenor.com/umLEvCHm8RkAAAAd/tis100-sad.gif" width="300" />
-  <img src="https://media.tenor.com/qWDVYjauKxIAAAAd/onegai-twins.gif" width="300" />
+  <img src="https://github.com/ren0777/ren0777/blob/main/tis100-sad.gif" width="300" />
+  <img src="https://github.com/ren0777/ren0777/blob/main/onegai-twins-please-twins.gif" width="300" />
 </p>
 
 ---
