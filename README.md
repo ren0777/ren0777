@@ -63,10 +63,10 @@ Cloud Computing undergraduate passionate about automation, cloud infrastructure 
 ## 🌸 Aesthetic Anime Zone  
 
 <p align="center">
-  <img src="[https://media.tenor.com/J3Gscg8n26kAAAAC/anime-girl.gif](https://tenor.com/view/onegai-twins-please-twins-kamishiro-mike-kamishiro-maiku-神城麻郁-gif-14052602507627363334)" width="220" style="margin-right:10px;">
-  <img src="[https://media.tenor.com/Rd2xp-pZXbEAAAAC/anime-hacker.gif](https://tenor.com/view/tis100-sad-anime-girl-computer-coding-gif-17028925)" width="220" style="margin-right:10px;">
-  <img src="https://media.tenor.com/IEj2Z3wG6HcAAAAC/coding.gif" width="220">
+  <img src="https://media.tenor.com/9Hn2lLBVmYoAAAAC/tis100-sad.gif" width="350" />
+  <img src="https://media.tenor.com/9tSNG0w3yq8AAAAC/onegai-twins.gif" width="350" />
 </p>
+
 
 <p align="center">
   <img src="/mnt/data/fb88c5e7-670e-4b2f-aaf1-95158395cbee.png" width="240">
